@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D6EADE28-E653-43EA-B451-A169016097B8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Rental.View</RootNamespace>
+    <AssemblyName>Rental.View</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FluentNHibernate, Version=2.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentNHibernate.2.0.3.0\lib\net40\FluentNHibernate.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Iesi.Collections, Version=4.0.0.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Iesi.Collections.4.0.0.4000\lib\net40\Iesi.Collections.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NHibernate, Version=4.0.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\NHibernate.4.0.4.4000\lib\net40\NHibernate.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.99.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Core.1.0.99.0\lib\net46\System.Data.SQLite.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormApartmantAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormApartmantAdd.Designer.cs">
+      <DependentUpon>FormApartmantAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormApartmantView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormApartmantView.Designer.cs">
+      <DependentUpon>FormApartmantView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormClientAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormClientAdd.Designer.cs">
+      <DependentUpon>FormClientAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormClientEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormClientEdit.Designer.cs">
+      <DependentUpon>FormClientEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormClientView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormClientView.Designer.cs">
+      <DependentUpon>FormClientView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEmployeeAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEmployeeAdd.Designer.cs">
+      <DependentUpon>FormEmployeeAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEmployeeEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEmployeeEdit.Designer.cs">
+      <DependentUpon>FormEmployeeEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEmployeeView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEmployeeView.Designer.cs">
+      <DependentUpon>FormEmployeeView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTransactionsView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTransactionsView.Designer.cs">
+      <DependentUpon>FormTransactionsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTranscationsAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTranscationsAdd.Designer.cs">
+      <DependentUpon>FormTranscationsAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormApartmantAdd.resx">
+      <DependentUpon>FormApartmantAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormApartmantView.resx">
+      <DependentUpon>FormApartmantView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormClientAdd.resx">
+      <DependentUpon>FormClientAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormClientEdit.resx">
+      <DependentUpon>FormClientEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormClientView.resx">
+      <DependentUpon>FormClientView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEmployeeAdd.resx">
+      <DependentUpon>FormEmployeeAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEmployeeEdit.resx">
+      <DependentUpon>FormEmployeeEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEmployeeView.resx">
+      <DependentUpon>FormEmployeeView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTransactionsView.resx">
+      <DependentUpon>FormTransactionsView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTranscationsAdd.resx">
+      <DependentUpon>FormTranscationsAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Rental.DomainModel\Rental.DomainModel.csproj">
+      <Project>{ac4fd523-4129-4871-acb7-27c2ad8f6b81}</Project>
+      <Name>Rental.DomainModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Rental.Interfaces\Rental.Interfaces.csproj">
+      <Project>{4859eaf0-0ebf-4d51-bf57-14a09f6fb32c}</Project>
+      <Name>Rental.Interfaces</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.99.0\build\net46\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.99.0\build\net46\System.Data.SQLite.Core.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.99.0\build\net46\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.99.0\build\net46\System.Data.SQLite.Core.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

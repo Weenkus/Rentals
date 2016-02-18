@@ -1,0 +1,70 @@
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\obj\Debug\Rental.Tests.csprojResolveAssemblyReference.cache
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\xunit.abstractions.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\hibernate.cfg.xml
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\Apartmani.Tests.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\Apartmani.Tests.pdb
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\FluentNHibernate.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\Iesi.Collections.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\NHibernate.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\Rental.Controller.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\Rental.DomainModel.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\System.Data.SQLite.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\xunit.assert.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\xunit.core.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\xunit.execution.desktop.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\Rental.Interfaces.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\Rental.View.exe
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\Rental.Controller.pdb
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\Rental.DomainModel.pdb
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\FluentNHibernate.pdb
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\FluentNHibernate.xml
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\Iesi.Collections.xml
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\NHibernate.xml
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\System.Data.SQLite.xml
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\xunit.assert.pdb
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\xunit.assert.xml
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\xunit.core.pdb
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\xunit.core.xml
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\xunit.execution.desktop.pdb
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\xunit.execution.desktop.xml
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\Rental.Interfaces.pdb
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\bin\Debug\Rental.View.pdb
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\obj\Debug\Apartmani.Tests.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Tests\obj\Debug\Apartmani.Tests.pdb
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\xunit.abstractions.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\hibernate.cfg.xml
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\Apartmani.Tests.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\Apartmani.Tests.pdb
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\FluentNHibernate.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\Iesi.Collections.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\NHibernate.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\Rental.Controller.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\Rental.DomainModel.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\System.Data.SQLite.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\xunit.assert.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\xunit.core.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\xunit.execution.desktop.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\Rental.Interfaces.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\Rental.View.exe
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\Rental.Controller.pdb
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\Rental.DomainModel.pdb
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\FluentNHibernate.pdb
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\FluentNHibernate.xml
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\Iesi.Collections.xml
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\NHibernate.xml
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\System.Data.SQLite.xml
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\xunit.assert.pdb
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\xunit.assert.xml
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\xunit.core.pdb
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\xunit.core.xml
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\xunit.execution.desktop.pdb
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\xunit.execution.desktop.xml
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\Rental.Interfaces.pdb
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\bin\Debug\Rental.View.pdb
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\obj\Debug\Rental.Tests.csprojResolveAssemblyReference.cache
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\obj\Debug\Apartmani.Tests.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Tests\obj\Debug\Apartmani.Tests.pdb

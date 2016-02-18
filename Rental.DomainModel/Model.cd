@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Singleton">
+    <Position X="2.85" Y="5.801" Height="0.3" Width="0.86" />
+  </Comment>
+  <Comment CommentText="Singleton">
+    <Position X="4.572" Y="5.797" Height="0.3" Width="0.86" />
+  </Comment>
+  <Comment CommentText="Singleton">
+    <Position X="15.319" Y="0.827" Height="0.3" Width="0.86" />
+  </Comment>
+  <Comment CommentText="Servis">
+    <Position X="13.155" Y="8.34" Height="0.3" Width="0.745" />
+  </Comment>
+  <Comment CommentText="Factory">
+    <Position X="10.656" Y="9.096" Height="0.3" Width="0.86" />
+  </Comment>
+  <Comment CommentText="Interface">
+    <Position X="6.504" Y="5.785" Height="0.3" Width="0.86" />
+  </Comment>
+  <Comment CommentText="Interface">
+    <Position X="1.211" Y="5.825" Height="0.3" Width="0.86" />
+  </Comment>
+  <Comment CommentText="Interface">
+    <Position X="17.359" Y="0.822" Height="0.3" Width="0.86" />
+  </Comment>
+  <Comment CommentText="Interface">
+    <Position X="16.438" Y="5.834" Height="0.3" Width="0.86" />
+  </Comment>
+  <Comment CommentText="Entitiy">
+    <Position X="10.951" Y="5.74" Height="0.34" Width="0.7" />
+  </Comment>
+  <Comment CommentText="Entitiy">
+    <Position X="14.212" Y="5.8" Height="0.34" Width="0.7" />
+  </Comment>
+  <Comment CommentText="Entitiy">
+    <Position X="12.681" Y="0.768" Height="0.34" Width="0.7" />
+  </Comment>
+  <Comment CommentText="Entitiy">
+    <Position X="7.581" Y="0.802" Height="0.34" Width="0.7" />
+  </Comment>
+  <Comment CommentText="Entitiy">
+    <Position X="4.644" Y="0.824" Height="0.34" Width="0.7" />
+  </Comment>
+  <Comment CommentText="Value">
+    <Position X="8.258" Y="5.717" Height="0.291" Width="0.7" />
+  </Comment>
+  <Comment CommentText="Value">
+    <Position X="10.744" Y="0.741" Height="0.291" Width="0.7" />
+  </Comment>
+  <Comment CommentText="Entitiy">
+    <Position X="2.2" Y="0.759" Height="0.34" Width="0.7" />
+  </Comment>
+  <Comment CommentText="Repository">
+    <Position X="4.339" Y="9.532" Height="0.291" Width="0.886" />
+  </Comment>
+  <Comment CommentText="Repository">
+    <Position X="2.588" Y="9.372" Height="0.291" Width="0.886" />
+  </Comment>
+  <Comment CommentText="Repository">
+    <Position X="15.144" Y="4.76" Height="0.291" Width="0.886" />
+  </Comment>
+  <Class Name="Rental.SpecialFeatures">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="_id" Hidden="true" />
+      <Property Name="Id" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AgACAAAAAQAgAAAEAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SpecialFeatures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rental.RentalInformation">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAACAAgAAAAABAAABAAIAAAAAQAAAAAAQAAAE=</HashCode>
+      <FileName>RentalInformation.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_rented" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Rental.RentalInclude">
+    <Position X="7.75" Y="5.5" Width="1.5" />
+    <Members>
+      <Field Name="_id" Hidden="true" />
+      <Property Name="Id" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAACAIAAAAAQAAAEAEBAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>RentalInclude.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_offer" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Rental.Rental">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACoACAAEAgAAAEAABAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rental.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_owner" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Rental.Person">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAAAAAAAAAEgAFAAAQAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rental.Employee">
+    <Position X="13.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_advisingClients" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Rental.Client">
+    <Position X="10.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAACAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_dedicatedAgent" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Rental.Apartment">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAABAAAAAAAAoAAAAAAACAAAAAQSAAAAAEAAAAA=</HashCode>
+      <FileName>Apartment.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_payedFeatures" />
+      <Field Name="_includedFeatures" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Rental.ApartmanFactory">
+    <Position X="9.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Factories\ApartmanFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Rental.Offer">
+    <Position X="7.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAEAAAAABAAAAAAAAQIAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Offer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

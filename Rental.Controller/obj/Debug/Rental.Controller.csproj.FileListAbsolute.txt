@@ -1,0 +1,42 @@
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Controller\obj\Debug\Rental.Controller.csprojResolveAssemblyReference.cache
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Controller\bin\Debug\hibernate.cfg.xml
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Controller\bin\Debug\Rental.Controller.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Controller\bin\Debug\Rental.Controller.pdb
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Controller\bin\Debug\FluentNHibernate.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Controller\bin\Debug\Iesi.Collections.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Controller\bin\Debug\NHibernate.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Controller\bin\Debug\Rental.DomainModel.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Controller\bin\Debug\Rental.Interfaces.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Controller\bin\Debug\Rental.View.exe
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Controller\bin\Debug\System.Data.SQLite.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Controller\bin\Debug\Rental.DomainModel.pdb
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Controller\bin\Debug\Rental.Interfaces.pdb
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Controller\bin\Debug\Rental.View.pdb
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Controller\bin\Debug\FluentNHibernate.pdb
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Controller\bin\Debug\FluentNHibernate.xml
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Controller\bin\Debug\Iesi.Collections.xml
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Controller\bin\Debug\NHibernate.xml
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Controller\bin\Debug\System.Data.SQLite.xml
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Controller\obj\Debug\Rental.Controller.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.Controller\obj\Debug\Rental.Controller.pdb
+E:\Programming\Workspace\Projects\Rentals\Rental.Controller\bin\Debug\hibernate.cfg.xml
+E:\Programming\Workspace\Projects\Rentals\Rental.Controller\bin\Debug\Rental.Controller.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Controller\bin\Debug\Rental.Controller.pdb
+E:\Programming\Workspace\Projects\Rentals\Rental.Controller\bin\Debug\FluentNHibernate.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Controller\bin\Debug\Iesi.Collections.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Controller\bin\Debug\NHibernate.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Controller\bin\Debug\Rental.DomainModel.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Controller\bin\Debug\Rental.Interfaces.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Controller\bin\Debug\Rental.View.exe
+E:\Programming\Workspace\Projects\Rentals\Rental.Controller\bin\Debug\System.Data.SQLite.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Controller\bin\Debug\Rental.DomainModel.pdb
+E:\Programming\Workspace\Projects\Rentals\Rental.Controller\bin\Debug\Rental.Interfaces.pdb
+E:\Programming\Workspace\Projects\Rentals\Rental.Controller\bin\Debug\Rental.View.pdb
+E:\Programming\Workspace\Projects\Rentals\Rental.Controller\bin\Debug\FluentNHibernate.pdb
+E:\Programming\Workspace\Projects\Rentals\Rental.Controller\bin\Debug\FluentNHibernate.xml
+E:\Programming\Workspace\Projects\Rentals\Rental.Controller\bin\Debug\Iesi.Collections.xml
+E:\Programming\Workspace\Projects\Rentals\Rental.Controller\bin\Debug\NHibernate.xml
+E:\Programming\Workspace\Projects\Rentals\Rental.Controller\bin\Debug\System.Data.SQLite.xml
+E:\Programming\Workspace\Projects\Rentals\Rental.Controller\obj\Debug\Rental.Controller.csprojResolveAssemblyReference.cache
+E:\Programming\Workspace\Projects\Rentals\Rental.Controller\obj\Debug\Rental.Controller.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.Controller\obj\Debug\Rental.Controller.pdb

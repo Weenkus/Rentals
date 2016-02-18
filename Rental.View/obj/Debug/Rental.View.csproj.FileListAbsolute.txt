@@ -1,0 +1,64 @@
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\bin\Debug\Rental.View.exe.config
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\bin\Debug\Rental.View.exe
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\bin\Debug\Rental.View.pdb
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\bin\Debug\FluentNHibernate.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\bin\Debug\Iesi.Collections.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\bin\Debug\NHibernate.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\bin\Debug\Rental.DomainModel.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\bin\Debug\Rental.Interfaces.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\bin\Debug\System.Data.SQLite.dll
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\bin\Debug\Rental.DomainModel.pdb
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\bin\Debug\Rental.Interfaces.pdb
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\bin\Debug\FluentNHibernate.pdb
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\bin\Debug\FluentNHibernate.xml
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\bin\Debug\Iesi.Collections.xml
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\bin\Debug\NHibernate.xml
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\bin\Debug\System.Data.SQLite.xml
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\obj\Debug\Rental.View.csprojResolveAssemblyReference.cache
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\obj\Debug\Rental.FormEmployeeView.resources
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\obj\Debug\Rental.MainForm.resources
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\obj\Debug\Rental.View.Properties.Resources.resources
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\obj\Debug\Rental.View.csproj.GenerateResource.Cache
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\obj\Debug\Rental.View.exe
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\obj\Debug\Rental.View.pdb
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\obj\Debug\Rental.FormClientView.resources
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\obj\Debug\Rental.FormApartmantView.resources
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\obj\Debug\Rental.FormClientAdd.resources
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\obj\Debug\Rental.FormEmployeeAdd.resources
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\obj\Debug\Rental.FormClientEdit.resources
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\obj\Debug\Rental.FormEmployeeEdit.resources
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\obj\Debug\Rental.FormApartmantAdd.resources
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\obj\Debug\Rental.FormTransactionsView.resources
+E:\Programming\Workspace\Lab\Objektno oblikovanje\SEMINAR\Kodžoman_Vinko_Rental\Rental.View\obj\Debug\Rental.FormTranscationsAdd.resources
+E:\Programming\Workspace\Projects\Rentals\Rental.View\bin\Debug\Rental.View.exe.config
+E:\Programming\Workspace\Projects\Rentals\Rental.View\bin\Debug\Rental.View.exe
+E:\Programming\Workspace\Projects\Rentals\Rental.View\bin\Debug\Rental.View.pdb
+E:\Programming\Workspace\Projects\Rentals\Rental.View\bin\Debug\FluentNHibernate.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.View\bin\Debug\Iesi.Collections.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.View\bin\Debug\NHibernate.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.View\bin\Debug\Rental.DomainModel.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.View\bin\Debug\Rental.Interfaces.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.View\bin\Debug\System.Data.SQLite.dll
+E:\Programming\Workspace\Projects\Rentals\Rental.View\bin\Debug\Rental.DomainModel.pdb
+E:\Programming\Workspace\Projects\Rentals\Rental.View\bin\Debug\Rental.Interfaces.pdb
+E:\Programming\Workspace\Projects\Rentals\Rental.View\bin\Debug\FluentNHibernate.pdb
+E:\Programming\Workspace\Projects\Rentals\Rental.View\bin\Debug\FluentNHibernate.xml
+E:\Programming\Workspace\Projects\Rentals\Rental.View\bin\Debug\Iesi.Collections.xml
+E:\Programming\Workspace\Projects\Rentals\Rental.View\bin\Debug\NHibernate.xml
+E:\Programming\Workspace\Projects\Rentals\Rental.View\bin\Debug\System.Data.SQLite.xml
+E:\Programming\Workspace\Projects\Rentals\Rental.View\obj\Debug\Rental.View.csprojResolveAssemblyReference.cache
+E:\Programming\Workspace\Projects\Rentals\Rental.View\obj\Debug\Rental.FormApartmantAdd.resources
+E:\Programming\Workspace\Projects\Rentals\Rental.View\obj\Debug\Rental.FormApartmantView.resources
+E:\Programming\Workspace\Projects\Rentals\Rental.View\obj\Debug\Rental.FormClientAdd.resources
+E:\Programming\Workspace\Projects\Rentals\Rental.View\obj\Debug\Rental.FormClientEdit.resources
+E:\Programming\Workspace\Projects\Rentals\Rental.View\obj\Debug\Rental.FormClientView.resources
+E:\Programming\Workspace\Projects\Rentals\Rental.View\obj\Debug\Rental.FormEmployeeAdd.resources
+E:\Programming\Workspace\Projects\Rentals\Rental.View\obj\Debug\Rental.FormEmployeeEdit.resources
+E:\Programming\Workspace\Projects\Rentals\Rental.View\obj\Debug\Rental.FormEmployeeView.resources
+E:\Programming\Workspace\Projects\Rentals\Rental.View\obj\Debug\Rental.FormTransactionsView.resources
+E:\Programming\Workspace\Projects\Rentals\Rental.View\obj\Debug\Rental.FormTranscationsAdd.resources
+E:\Programming\Workspace\Projects\Rentals\Rental.View\obj\Debug\Rental.MainForm.resources
+E:\Programming\Workspace\Projects\Rentals\Rental.View\obj\Debug\Rental.View.Properties.Resources.resources
+E:\Programming\Workspace\Projects\Rentals\Rental.View\obj\Debug\Rental.View.csproj.GenerateResource.Cache
+E:\Programming\Workspace\Projects\Rentals\Rental.View\obj\Debug\Rental.View.exe
+E:\Programming\Workspace\Projects\Rentals\Rental.View\obj\Debug\Rental.View.pdb
